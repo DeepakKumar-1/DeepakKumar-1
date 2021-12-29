@@ -1,5 +1,7 @@
 ### Hey! I'm Deepak Kumar. 👋
 
+![GitHub](https://img.shields.io/github/followers/DeepakKumar-1?label=follow&style=social)
+![LinkedIn](https://img.shields.io/badge/-Deepak%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepak-kumar-74153b20a/)
 <!--
 **DeepakKumar-1/DeepakKumar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
