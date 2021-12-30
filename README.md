@@ -5,9 +5,16 @@
 
 I'm a App Developer. I have a passion for Learning and sharing my knowlegde with others.
 
+![Deepak's github activity graph](https://activity-graph.herokuapp.com/graph?username=DeepakKumar-1&theme=xcode)
 [![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=DeepakKumar-1&theme=calm&show_icons=true)](https://github.com/DeepakKumar-1/github-readme-stats) <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakKumar-1&layout=compact&theme=calm)](https://github.com/DeepakKumar-1/github-readme-stats)
-<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=DeepakKumar-1&title=Commit,Repositories&theme=darkhub) -->
+<!-- <div align="center">
+  <h4>🏆 Github Profile Trophies</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=DeepakKumar-1&theme=monokai&row=1&column=8">
+  </a>
+</div><hr> -->
+<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=DeepakKumar-1&title=Commit,Repositories&theme=calm) -->
 <!--
 **DeepakKumar-1/DeepakKumar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
