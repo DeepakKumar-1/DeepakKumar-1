@@ -1,7 +1,7 @@
 ### ![](https://github.com/DeepakKumar-1) Hey! I'm Deepak.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub](https://img.shields.io/github/followers/DeepakKumar-1?label=follow&style=social)](https://github.com/DeepakKumar-1)
-[![LeetCode](https://img.shields.io/badge/Deepak-white?style=cool&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Deepak2002/)
+[![LeetCode](https://img.shields.io/badge/Deepak-grey?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Deepak2002/)
 [![LinkedIn](https://img.shields.io/badge/-Deepak%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-74153b20a)
 <!-- [![Google Developer]()(https://g.dev/deepak1)] -->
 
