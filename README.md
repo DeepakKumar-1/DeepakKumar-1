@@ -32,6 +32,6 @@ I'm an App Developer. I have a passion for Learning and sharing my knowlegde wit
 Here are some ideas to get you started://
 
 - 🔭 I’m currently working on ...
-- 🌱  currently  
+- 🌱  curr  
 - 💬 Ask me about ...
 -->
