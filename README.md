@@ -31,7 +31,7 @@ I'm an App Developer. I have a passion for Learning and sharing my knowlegde wit
 
 Here are some ideas to get you:
 
-- 🔭 I’m curre
+
 
 
 -->
