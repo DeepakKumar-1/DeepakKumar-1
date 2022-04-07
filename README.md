@@ -30,7 +30,4 @@ I'm an App Developer. I have a passion for Learning and sharing my knowlegde wit
 **DeepakKumar-1/DeepakKumar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-
-
-
 -->
