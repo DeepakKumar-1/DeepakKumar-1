@@ -10,7 +10,7 @@ I'm an App Developer. I have a passion for Learning and sharing my knowlegde wit
 <!-- ![Deepak's github activity graph](https://activity-graph.herokuapp.com/graph?username=DeepakKumar-1&theme=xcode) -->
 [![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=DeepakKumar-1&theme=calm&show_icons=true)](https://github.com/DeepakKumar-1/github-readme-stats) <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakKumar-1&layout=compact&theme=calm)](https://github.com/DeepakKumar-1/github-readme-stats)<br>
-**Tools & Technologies* <br>
+**Tools & Technologies** <br>
 <code><img height="60" src="https://user-images.githubusercontent.com/62320661/127477116-a5baab40-4f40-41dc-9d73-9343e90f7624.png"></code>
 <code><img height="60" src="https://user-images.githubusercontent.com/85002425/147732153-5293c47f-a61e-4765-aa13-9aa473c2ae56.png"></code>
 <code><img height="60" src="https://user-images.githubusercontent.com/85002425/147731207-1d2397f7-af34-43a2-a190-470ddbe5089b.png"></code>
